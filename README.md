@@ -7,7 +7,8 @@
   
 - 🌍  I'm based in Yogyakarta, Indonesia
 - ✉️  You can contact me at [alvinchristianto93@gmail.com](mailto:alvinchristianto93@gmail.com)
-- 🚀  I'm currently working on Project [The Cabin Hotel Web Reservation ](https://thecabinhotelgroup.com/)
+- 🚀  I'm currently working on Project [The Cabin Hotel Web Reservation ](https://thecabinhotelgroup.com/) and [Partnership The Cabin Hotel ](https://partner.thecabinhotelgroup.com/)
+- 🚀  Loving doing things in Laravel, filamentphp, octane, NextJs. Learning to Golang soon ⚡
 - 🤝 I'm open to collaborating on Interesting Projects and Ideas
 - ⚡  Let's Build and Collaborate
   
